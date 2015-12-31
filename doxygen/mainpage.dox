@@ -1,0 +1,6 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+gaussian_process is a library to utilise Gaussian Process in c++.
+*/

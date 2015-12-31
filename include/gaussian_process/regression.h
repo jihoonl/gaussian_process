@@ -1,6 +1,7 @@
 /*
   Gaussian Process Regression
  */
+/** \author Jihoon Lee */
 
 #ifndef _GAUSSIAN_PROCESS_REGRESSION_H_
 #define _GAUSSIAN_PROCESS_REGRESSION_H_ 
@@ -25,10 +26,6 @@ private:
   unsigned int y_dim_;
   unsigned int data_size_;
   double hyp_[3];
-
-  
-
-
 
 };
 
