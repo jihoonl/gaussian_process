@@ -1,7 +1,7 @@
 /*
   Gaussian Process Regression
  */
-/** \author Jihoon Lee */
+/** \author Jihoon Lee, Kyungjae Lee, Sungjoon Choi */
 
 #ifndef _GAUSSIAN_PROCESS_REGRESSION_H_
 #define _GAUSSIAN_PROCESS_REGRESSION_H_ 
